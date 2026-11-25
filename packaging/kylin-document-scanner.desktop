@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Document Scanner
+Name[zh_CN]=文档高拍工具
+Comment=Offline document capture and Chinese OCR
+Comment[zh_CN]=离线拍照、文档处理与中文文字识别
+Exec=kylin-document-scanner
+Icon=kylin-document-scanner
+Terminal=false
+Categories=Graphics;Scanning;
+StartupNotify=true

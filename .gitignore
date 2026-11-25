@@ -1,0 +1,42 @@
+# Local build products and offline package repositories
+/build*/
+/cmake-build-*/
+/offline*/
+/_CPack_Packages/
+/.apt/
+*.deb
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+CMakeUserPresets.json
+compile_commands.json
+
+# Captures, exports, task settings, and local diagnostics
+/work/
+/outputs/
+originals/
+processed/
+session.json
+device-report*.txt
+*.log
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.mkv
+
+# Local credentials and editor settings
+.env
+.env.*
+.ssh/
+id_rsa*
+id_ed25519*
+known_hosts*
+*.pem
+*.key
+*.ppk
+*.pfx
+.vscode/
+.idea/
+*.user
